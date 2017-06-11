@@ -77,7 +77,7 @@ position: relative;
 .cover-single{height: 50%; }
 .cover-single-italiano{height: 60%; font-size: 42px;background-image: url(http://leganerd.com/wp-content/uploads/2017/01/TnapoCb.jpg);}
 .cover-single-filosofia{height: 60%; font-size: 42px;background-image: url(https://solidit23.github.io/lukevsvader.png);}
-.cover-single-storia{height: 60%; font-size: 42px;background-image: url(https://www.google.it/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjq84SRhLbUAhWB6xQKHXNYDf0QjRwIBw&url=http%3A%2F%2Fwww.pickywallpapers.com%2Fhd%2Fmovies-tvshows%2Fstar-wars%2Fdarth-sidious-wallpaper%2F&psig=AFQjCNFBOiCit1D353lPzDv8pxW5XisVdg&ust=1497278737788864);}
+.cover-single-storia{background-position: top center;height: 60%; font-size: 42px;background-image: url(http://wallpaper.pickywallpapers.com/1920x1080/darth-sidious.jpg);}
 .cover-single-inglese{background-position: bottom center;height: 60%; font-size: 42px;background-image:url(https://s-media-cache-ak0.pinimg.com/originals/27/a5/39/27a539080eaac63be2e70c87a36c9743.jpg); }
 .cover_caption_copy-single h1{font-family: star; }
 
@@ -166,8 +166,8 @@ banner
 	.is-open{height: 300px; overflow: auto;}
 	/* cover mobile*/
 	.cover{height: 100%:}
-  .cover_caption_copy h2,h3{font-size: 20px;}
-  .cover_caption_copy-single h1{font-size: 30px;}
+  .cover_caption_copy {font-size: 20px;}
+  .cover_caption_copy-single h1{font-size: 40px;}
 	/*cards*/
 	.card{width: 100%;margin: 0;}
 	/*banner*/
