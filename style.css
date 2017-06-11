@@ -61,7 +61,7 @@ background:  #000;
 /*cover*/
 
 .cover{height: 70%;
-background-image: url(https://images2.alphacoders.com/559/559859.jpg);
+background-image:url(https://solidit23.github.io/cover.jpg) ;
 background-size:cover;
 -o-background-size:cover;
 -moz-background-size: cover;
@@ -70,16 +70,16 @@ position: relative;
 }
 
 .cover_filter{background-color: black;width: 100%;height: 100%;position: absolute;z-index: 0;opacity: 0.5;}
-.cover_caption{display: table;height: 100%;width: 100%;position: relative;z-index: 1;padding: 0px 20px;}
+.cover_caption{display: table;height: 100%;width: 100%;position: relative;z-index: 1;padding: 0px 0px;}
 .cover_caption_copy{font-size:40px;display: table-cell;vertical-align: middle;text-align: center;color: #fff;font-family: star;}
 
 
 .cover-single{height: 50%; }
-.cover-single-italiano{height: 60%; font-size: 42px;background-image: url(http://leganerd.com/wp-content/uploads/2017/01/TnapoCb.jpg);}
-.cover-single-filosofia{height: 60%; font-size: 42px;background-image: url(https://solidit23.github.io/lukevsvader.png);}
-.cover-single-storia{background-position: top center;height: 60%; font-size: 42px;background-image: url(http://wallpaper.pickywallpapers.com/1920x1080/darth-sidious.jpg);}
-.cover-single-inglese{background-position: bottom center;height: 60%; font-size: 42px;background-image:url(https://s-media-cache-ak0.pinimg.com/originals/27/a5/39/27a539080eaac63be2e70c87a36c9743.jpg); }
-.cover_caption_copy-single h1{font-family: star; }
+.cover-single-italiano{background-position: center;height: 60%; font-size: 42px;background-image: url(https://solidit23.github.io/vader.jpg);}
+.cover-single-filosofia{background-position: center;height: 60%; font-size: 42px;background-image: url(https://solidit23.github.io/lukevsvader.png);}
+.cover-single-storia{background-position: center top;height: 60%; font-size: 42px;background-image: url(https://solidit23.github.io/emperor.jpg);}
+.cover-single-inglese{background-position: center bottom;height: 60%; font-size: 42px;background-image:url(https://solidit23.github.io/equilibrio.jpg); }
+.cover_caption_copy-single h1{font-family: star;}
 
 /* cards*/
 .cards{ max-width: 1200px; margin: 40px auto;}
@@ -95,7 +95,7 @@ banner
 */
 .banner{width: 100%; background-color: white; height: 25%;}
 .banner_image{width: 30%;float: left;height: 100%;
-	background-image:url(http://blogs-images.forbes.com/brandonkatz/files/2016/10/Star-Wars-1200x675.jpg?width=960);
+	background-image:url(banner.jpg);
 	background-size:cover;
 	-o-background-size:cover;
 	-moz-background-size: cover;
