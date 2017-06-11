@@ -95,7 +95,7 @@ banner
 */
 .banner{width: 100%; background-color: white; height: 25%;}
 .banner_image{width: 30%;float: left;height: 100%;
-	background-image:url(banner.jpg);
+	background-image:url(https://solidit23.github.io/banner.jpg);
 	background-size:cover;
 	-o-background-size:cover;
 	-moz-background-size: cover;
