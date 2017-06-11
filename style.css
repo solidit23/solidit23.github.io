@@ -75,10 +75,10 @@ position: relative;
 
 
 .cover-single{height: 50%; }
-.cover-single-italiano{height: 50%; font-size: 42px;background-image: url(http://leganerd.com/wp-content/uploads/2017/01/TnapoCb.jpg);}
-.cover-single-filosofia{height: 50%; font-size: 42px;background-image: url(https://vignette3.wikia.nocookie.net/starwars/images/7/71/Lukevaderesb.png/revision/latest?cb=20130219045408);}
-.cover-single-storia{height: 50%; font-size: 42px;background-image: url(http://blog.officialstarwarscostumes.com/wp-content/uploads/2016/11/emporer-throne.jpg);}
-.cover-single-inglese{background-position: bottom center;height: 50%; font-size: 42px;background-image:url(https://s-media-cache-ak0.pinimg.com/originals/27/a5/39/27a539080eaac63be2e70c87a36c9743.jpg); }
+.cover-single-italiano{height: 60%; font-size: 42px;background-image: url(http://leganerd.com/wp-content/uploads/2017/01/TnapoCb.jpg);}
+.cover-single-filosofia{height: 60%; font-size: 42px;background-image: url(https://vignette3.wikia.nocookie.net/starwars/images/7/71/Lukevaderesb.png/revision/latest?cb=20130219045408);}
+.cover-single-storia{height: 60%; font-size: 42px;background-image: url(http://blog.officialstarwarscostumes.com/wp-content/uploads/2016/11/emporer-throne.jpg);}
+.cover-single-inglese{background-position: bottom center;height: 60%; font-size: 42px;background-image:url(https://s-media-cache-ak0.pinimg.com/originals/27/a5/39/27a539080eaac63be2e70c87a36c9743.jpg); }
 .cover_caption_copy-single h1{font-family: star; }
 
 /* cards*/
