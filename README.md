@@ -1,3 +1,3 @@
 # starwarsjamesfrancario
 
-starwarsjamesfrancario.github.io/index.html
+http://starwarsjamesfrancario.github.io/index.html
