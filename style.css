@@ -110,7 +110,7 @@ banner
 .single{}
 .single_copy{max-width: 800px;margin: 0px auto; margin-top: -40px; background-color: #fff; padding: 20px 40px; position: relative; z-index: 1;}
 .single_copy_title{font-size: 32px;}
-
+.single_copy-cover{margin-top: 0px;}
 
 
 
